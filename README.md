@@ -8,10 +8,13 @@ I used Logistic regression, Decision trees, Random Forest models to come up with
 ![image alt](https://github.com/StephenMuuo/Syria-Tel-Customer-Churn-Analysis-Phase-3-Project./blob/main/Logistic%20regression%20classification%20report..PNG?raw=true)
 ## Evaluation
 I used the AUC score to evaluate the models
-Model Performance Summary (AUC Scores): Random Forest: AUC = 0.91 (Best performance).
-Decision Tree: AUC = 0.90 (Strong, slightly behind Random Forest).
-Logistic Regression: AUC = 0.83 (Good, but weakest among the three).
-![image](https://github.com/user-attachments/assets/258b55cc-60d4-449d-8a6a-5e3a844c4d97)
+Model Performance Summary (AUC Scores): Random Forest: AUC = 0.91 (Best performance). Decision Tree: AUC = 0.90 (Strong, slightly behind Random Forest). Logistic Regression: AUC = 0.83 (Good, but weakest among the three). 
+![image alt](https://github.com/StephenMuuo/Syria-Tel-Customer-Churn-Analysis-Phase-3-Project./blob/main/ROC%20curve.PNG?raw=true)
+## Conclusion
+- Focus on customers with high daytime usage and frequent customer service interactions for churn prevention. By offering better charges they can help reduce customer churn rate.
+- Investigate international plan offerings and customer service processes to address pain points. This will in turn help make sure that international users retain their communication plans
+- Improving customer support. By not being reactive but rather pro active the company can reach out to customers and receive feedback on ways to improve service.
+
 
 
 
